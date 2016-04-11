@@ -45,3 +45,19 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Project9/.vs/Project1/v14/.suo
+*.suo
+Project9/Project1/Debug/Project1.tlog/link.write.1.tlog
+*.tlog
+Project9/Project1.VC.db
+*.sln
+Project9/Debug/Project1.ilk
+*.exe
+Project9/Debug/Project1.pdb
+*.log
+Project9/Project1/Debug/vc140.idb
+*.pdb
+Project9/Project1/Project1.vcxproj
+*.filters
+Project9/Project9.VC.db
+*.vcxproj
