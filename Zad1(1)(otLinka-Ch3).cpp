@@ -11,7 +11,7 @@ int main()
 {
 	//printf("Irena \n");
 	//printf("27 years old\n");
-	printf("Enter you name: \n");
+	printf("Enter your name: \n");
 	char name[20];
 	mgetline(name, 20);
 	printf("Enter your age: \n");
